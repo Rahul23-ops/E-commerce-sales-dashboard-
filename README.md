@@ -5,7 +5,7 @@
 
 This project presents an **E-Commerce Sales Dashboard** built using **Power BI** and **SQL** to analyze sales performance, profitability, customer behavior, and product trends. The dashboard helps businesses make data-driven decisions by providing interactive insights into sales and profit metrics.
 
----
+
 
 ## 🎯 Objectives
 
@@ -16,7 +16,7 @@ This project presents an **E-Commerce Sales Dashboard** built using **Power BI**
 * Evaluate payment mode preferences.
 * Track monthly profit trends.
 
----
+
 
 ## 🛠️ Tools & Technologies
 
@@ -25,7 +25,7 @@ This project presents an **E-Commerce Sales Dashboard** built using **Power BI**
 * **Excel/CSV** – Data Preparation
 * **GitHub** – Project Documentation & Version Control
 
----
+
 
 ## 📊 Dashboard Features
 
@@ -45,7 +45,7 @@ This project presents an **E-Commerce Sales Dashboard** built using **Power BI**
 * Profit by Sub-Category
 * Quarter-wise Filtering
 
----
+
 
 ## 📈 Key Insights
 
@@ -55,7 +55,7 @@ This project presents an **E-Commerce Sales Dashboard** built using **Power BI**
 * Printers delivered the highest profit among all sub-categories.
 * Profit peaked during November, indicating strong seasonal sales performance.
 
----
+
 
 ## 📂 Project Structure
 
@@ -69,13 +69,13 @@ Ecommerce-Sales-Dashboard/
 └── README.md
 ```
 
----
+
 
 ## 📸 Dashboard Preview
 
 ![Dashboard](Dashboard_Screenshot.png)
 
----
+
 
 ## 🗃️ SQL Analysis
 
@@ -83,7 +83,7 @@ The SQL queries used for generating business insights are available in:
 
 ```sql
 Ecommerce_Dashboard_SQL.sql
-```
+
 
 These queries cover:
 
@@ -95,7 +95,7 @@ These queries cover:
 * Payment Mode Analysis
 * Monthly Profit Trends
 
----
+
 
 ## 🚀 Business Impact
 
@@ -116,10 +116,10 @@ Aspiring Data Analyst
 
 ### Connect With Me
 
-* 💼 LinkedIn: Add your LinkedIn profile link
+* 💼 LinkedIn: https://www.linkedin.com/in/rahul-narkar-754213401?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 * 📧 Email: Add your email address
 * 💻 GitHub: Add your GitHub profile link
 
----
 
-⭐ If you found this project useful, consider giving it a star on GitHub!
+
+
