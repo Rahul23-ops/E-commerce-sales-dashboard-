@@ -116,9 +116,9 @@ Aspiring Data Analyst
 
 ### Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/rahul-narkar-754213401?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-* 📧 Email: Add your email address
-* 💻 GitHub: Add your GitHub profile link
+* 💼 LinkedIn: www.linkedin.com/in/rahul-narkar-754213401
+* 📧 Email: narkarr901@gmail.com
+* 💻 GitHub: https://github.com/Rahul23-ops
 
 
 
