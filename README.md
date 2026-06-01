@@ -97,7 +97,7 @@ These queries cover:
 
 
 
-## 🚀 Business Impact
+ 🚀 Business Impact
 
 This dashboard enables stakeholders to:
 
@@ -107,14 +107,12 @@ This dashboard enables stakeholders to:
 * Optimize inventory and marketing strategies.
 * Improve overall business profitability.
 
----
+ 👨‍💻 Author
 
-## 👨‍💻 Author
-
-**Rahul Narkar**
+Rahul Narkar
 Aspiring Data Analyst
 
-### Connect With Me
+Connect With Me
 
 * 💼 LinkedIn: www.linkedin.com/in/rahul-narkar-754213401
 * 📧 Email: narkarr901@gmail.com
